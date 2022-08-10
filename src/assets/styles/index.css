@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header{
+
+    height: 6rem;
+    background-color: orange;
+}
+ header ul{
+ display: flex;
+ height: 100%;
+ align-items: center;
+ 
+ }
+header ul li{
+   padding:0 3rem;
+    list-style: none;
+}
+
+img{
+    height: 3rem;
+    width: 3rem;
+}
+
+.courses-box{
+    
+    height: 10rem;
+    width: 20%;
+    background-color:khaki;
+    border-radius: 0.5rem;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+}
