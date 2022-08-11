@@ -21,7 +21,7 @@ function App() {
         <Courses
           courses="HTML"
           course="Sematic-Tags"
-          styles={{ backgroundColor: "blue" }}
+          styles={{ backgroundColor: "red" }}
         />
       </article>
       <Footer> This is my first site by React. </Footer>

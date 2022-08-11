@@ -16,6 +16,7 @@ header{
  display: flex;
  height: 100%;
  align-items: center;
+ justify-content: space-around;
  
  
  }
@@ -53,7 +54,6 @@ img{
 }
 
 footer{
-
     background-color: gray;
     color: white;
     text-align: center;
